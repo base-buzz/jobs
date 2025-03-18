@@ -1,9 +1,13 @@
 const express = require("express");
+const cors = require("cors");
 const fs = require("fs");
 const path = require("path");
 
 const app = express();
 const PORT = process.env.PORT || 4000; // Use Vercel's PORT or fallback to 4000
+
+// ✅ Enable CORS for all requests
+app.use(cors());
 
 app.get("/api/jobs", (req, res) => {
   console.log("✅ Received request for jobs");
@@ -38,7 +42,7 @@ app.get("/api/jobs", (req, res) => {
   res.json(jobs);
 });
 
-// ✅ This check allows running locally but avoids conflicts on Vercel
+// ✅ Only start server locally (Vercel handles it automatically)
 if (process.env.NODE_ENV !== "vercel") {
   app.listen(PORT, () => {
     console.log(`🚀 Server running at http://localhost:${PORT}/api/jobs`);
