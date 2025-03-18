@@ -6,8 +6,19 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 4000; // Use Vercel's PORT or fallback to 4000
 
-// ✅ Enable CORS for all requests
-app.use(cors());
+app.use(
+  cors({
+    origin: [
+      "https://www.base.buzz",
+      "https://base.buzz",
+      "http://localhost:3000", // ✅ Allows local Next.js development
+      "http://127.0.0.1:3000", // ✅ Handles localhost variations
+    ],
+    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+    allowedHeaders: "Origin, X-Requested-With, Content-Type, Accept",
+    credentials: true,
+  })
+);
 
 app.get("/api/jobs", (req, res) => {
   console.log("✅ Received request for jobs");
