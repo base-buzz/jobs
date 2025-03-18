@@ -1,0 +1,42 @@
+{
+  "title": "Staff Backend Engineer",
+  "location": "Remote or US/EU-Based",
+  "description": "Architect and scale AI-driven DeFi backend infrastructure, integrating EVM smart contracts, real-time analytics, and decentralized governance tools.",
+  "fullDescription": "BaseBuzz is building the next-generation AI-powered DeFi ecosystem on Base. We enable seamless trading, governance, and real-world asset tokenization, powered by $BASEBUZZ. Our ecosystem includes high-impact projects like Rugtron3000, MemePro, and JobsOnBase—all designed for maximum on-chain engagement. \n\nJoining BaseBuzz means being part of a lean, high-impact team that’s reshaping the future of DeFi through automation, AI, and trustless smart contract systems.",
+  "responsibilities": [
+    "Architect, develop, and scale high-performance backend systems.",
+    "Build and optimize decentralized infrastructure, integrating EVM-based smart contracts, wallets, and on-chain data services.",
+    "Lead end-to-end technical projects—ensuring reliability, security, and performance.",
+    "Maintain high-quality, well-tested code, conducting peer reviews to uphold best practices.",
+    "Develop and scale APIs, data pipelines, and real-time transaction systems for on-chain analytics and trading.",
+    "Innovate on scalable, trustless reward systems to automate $BASEBUZZ incentives, reputation scores, and governance mechanisms."
+  ],
+  "requirements": {
+    "mustHave": [
+      "8+ years of backend engineering experience, including scaling high-performance, real-time systems.",
+      "Strong background in TypeScript, Go, or Rust for backend development.",
+      "Experience designing and building distributed systems, cloud infrastructure (AWS/GCP), and database architectures.",
+      "Deep understanding of EVM smart contracts, DeFi protocols, and on-chain data indexing.",
+      "Ability to independently drive projects and own technical decisions in a fast-moving, decentralized team.",
+      "Strong security mindset—understanding of MEV, frontrunning, smart contract risks, and best practices.",
+      "Passion for DeFi, AI-driven trading, and decentralized governance."
+    ],
+    "niceToHave": [
+      "Experience working with Subgraphs, The Graph, GraphQL, or custom blockchain data pipelines.",
+      "Familiarity with zkSync, Base, Layer 2 scaling, or bridging mechanisms.",
+      "Contributions to open-source DeFi protocols or on-chain trading bots.",
+      "A deep understanding of on-chain MEV, gas optimization, and Solidity contract tuning."
+    ]
+  },
+  "compensation": {
+    "remote": "Yes",
+    "tokenRewards": "Earn $BASEBUZZ through staking & on-chain governance.",
+    "benefits": [
+      "Fully remote, flexible work environment.",
+      "Deep DeFi integration—access governance influence & project upside.",
+      "On-chain reputation tracking—build your verified Web3 work history.",
+      "No VC overlords—this is a community-driven DeFi project."
+    ]
+  },
+  "applyLink": "/careers/apply?role=staff-backend-engineer"
+}

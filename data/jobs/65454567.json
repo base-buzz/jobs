@@ -1,0 +1,41 @@
+{
+  "title": "Senior Smart Contract Engineer",
+  "location": "Remote or US/EU-Based",
+  "description": "Design and deploy next-gen smart contracts for Base-native DeFi applications, integrating AI-powered trading, governance automation, and RWA tokenization.",
+  "fullDescription": "BaseBuzz is leading the charge in AI-driven DeFi, bringing advanced trading mechanisms, governance models, and real-world asset tokenization to Base. We are seeking an experienced Smart Contract Engineer to build and optimize our protocol’s smart contract infrastructure.\n\nAs a key contributor, you will be responsible for designing and deploying gas-optimized, upgradeable smart contracts, ensuring security, efficiency, and seamless interoperability across Base-native applications.",
+  "responsibilities": [
+    "Architect and develop smart contracts for high-efficiency DeFi protocols on Base.",
+    "Design and implement core BaseBuzz protocol mechanics, including governance, staking, and liquidity incentives.",
+    "Optimize smart contracts for gas efficiency while maintaining high security standards.",
+    "Conduct research on emerging Solidity paradigms and implement innovative contract architectures.",
+    "Collaborate with backend and frontend teams to integrate smart contract functionality into BaseBuzz apps.",
+    "Participate in security reviews, audits, and on-chain monitoring to safeguard protocol integrity."
+  ],
+  "requirements": {
+    "mustHave": [
+      "4+ years of experience building and deploying production-grade Solidity contracts.",
+      "Deep expertise in the Ethereum Virtual Machine (EVM) and Base chain mechanics.",
+      "Prior experience deploying and maintaining smart contracts on Ethereum L2s (Base, Optimism, Arbitrum).",
+      "Strong understanding of DeFi primitives: AMMs, lending protocols, staking mechanisms.",
+      "Proven ability to optimize smart contracts for gas efficiency and security."
+    ],
+    "niceToHave": [
+      "Degree in Computer Science, Mathematics, or related field.",
+      "Experience implementing complex financial models and algorithms in Solidity.",
+      "Familiarity with zkSync, Optimistic Rollups, and cross-chain messaging protocols.",
+      "Prior contributions to open-source DeFi projects.",
+      "Experience with frontend (React, TypeScript) and Web3 integrations."
+    ]
+  },
+  "compensation": {
+    "remote": "Yes",
+    "tokenRewards": "Earn $BASEBUZZ via on-chain staking & governance participation.",
+    "benefits": [
+      "Fully remote, async-first work environment.",
+      "Access to exclusive DeFi tools and trading incentives.",
+      "On-chain reputation tracking—build your Web3 work history.",
+      "Staked governance power in BaseBuzz ecosystem apps."
+    ]
+  },
+  "applyLink": "/careers/apply?role=senior-smart-contract-engineer"
+}
