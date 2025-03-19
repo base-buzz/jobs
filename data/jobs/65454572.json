@@ -1,45 +1,49 @@
 {
-  "id": "staff-product-manager-protocols",
-  "title": "Staff Product Manager, Protocols",
-  "location": "Work where you want, when you want",
-  "description": "Lead the next-generation protocol development for BaseBuzz, shaping DeFi infrastructure, governance, and trading primitives on Base.",
-  "fullDescription": "BaseBuzz is building the most advanced AI-powered DeFi ecosystem on Base, integrating real-world asset tokenization, automated governance, and high-performance trading. We are seeking an experienced **Staff Product Manager** to drive the evolution of BaseBuzz’s protocol layer—ensuring scalability, innovation, and market dominance.\n\nThis role is ideal for someone with **deep knowledge of Ethereum, Layer 2 scaling, and smart contracts**. You will define and execute BaseBuzz’s **protocol roadmap**, collaborating with engineers, researchers, and ecosystem partners to build the **next generation of trustless financial infrastructure.**",
+  "id": "recruitment-lead",
+  "title": "Recruitment Lead",
+  "location": "Remote / Global",
+  "description": "Lead talent acquisition and onboarding for BaseBuzz, building a world-class team of DeFi engineers, AI researchers, and Web3 strategists.",
+  "fullDescription": "BaseBuzz is building the next-generation AI-powered DeFi ecosystem on **Base**. To achieve this, we need **top-tier talent** in blockchain development, AI engineering, market analysis, and governance. We're looking for a **Recruitment Lead** to drive the hiring and onboarding process—sourcing the best minds in DeFi, crypto, and AI.\n\nThis role is for a **high-energy recruiter** who thrives in fast-moving environments. You will build **scalable hiring funnels**, engage with the Web3 community, and onboard mission-driven contributors into our decentralized team. If you're passionate about **growing a top-tier DeFi ecosystem**, this is your chance to lead the charge.",
   "responsibilities": [
-    "Define and execute BaseBuzz’s **protocol strategy**, ensuring future upgrades drive adoption and utility.",
-    "Lead **cross-functional product development** from ideation to deployment alongside the Protocol Engineering team.",
-    "Conduct deep research into **DeFi trends, governance models, and economic incentives**, shaping innovative mechanisms for trading, staking, and on-chain reputation.",
-    "Monitor the **Base and Ethereum L2 ecosystem**, identifying strategic opportunities to expand BaseBuzz’s protocol reach.",
-    "Collaborate with the Base Foundation and key partners to establish integrations, ecosystem initiatives, and governance structures.",
-    "Spearhead technical discussions with developers, auditors, and security teams to optimize smart contract performance and safety.",
-    "Mentor junior product managers and act as a **thought leader** within the BaseBuzz ecosystem."
+    "Develop and execute **BaseBuzz’s global hiring strategy**, ensuring the team scales efficiently.",
+    "Own the **end-to-end recruitment pipeline**, from sourcing to onboarding.",
+    "Leverage **crypto-native hiring channels**, including **Web3 job boards, DAOs, Discord, and Twitter**.",
+    "Identify and attract **top DeFi engineers, AI specialists, and crypto-native strategists**.",
+    "Work closely with **founders, engineers, and community managers** to define hiring priorities.",
+    "Ensure **seamless onboarding** for new hires, helping them integrate into BaseBuzz’s **async-first, decentralized culture**.",
+    "Manage the **BaseBuzz Careers Portal** and optimize application flows.",
+    "Develop **creative incentive structures**, including **on-chain staking for role applications**.",
+    "Scale the hiring pipeline through **automated tools and referral programs**.",
+    "Champion **BaseBuzz’s employer brand**, crafting engaging content that attracts world-class talent."
   ],
   "requirements": {
     "mustHave": [
-      "8+ years of product management experience, with at least **2+ years in the crypto industry** working on smart contract-based applications.",
-      "Proven track record of defining and launching **blockchain protocols, DeFi primitives, or on-chain governance frameworks**.",
-      "Strong understanding of **Ethereum, Base, Layer 2 scaling solutions, and trustless financial systems**.",
-      "Experience with **EVM smart contracts, Solidity, and DeFi trading mechanisms**.",
-      "Ability to **influence and drive alignment across diverse stakeholders**—including engineers, researchers, and governance participants.",
-      "Proficiency in **leveraging on-chain data** and analytics to inform decision-making.",
-      "Experience working in **fast-paced, autonomous teams** within Web3 startups or DAOs."
+      "5+ years of **recruitment experience** in high-growth startups, tech firms, or Web3 organizations.",
+      "Deep understanding of **crypto, DeFi, and blockchain ecosystems**.",
+      "Proven ability to **scale teams quickly**, hiring **engineers, AI experts, market analysts, and Web3 strategists**.",
+      "Experience using **crypto-native hiring platforms** (e.g., Web3 job boards, DAOs, crypto Twitter, Discord).",
+      "Strong networking skills with a **track record of hiring high-impact individuals**.",
+      "Experience managing **end-to-end hiring pipelines**, including outreach, interviews, and onboarding.",
+      "Ability to **work autonomously** in a fast-paced, remote-first environment."
     ],
     "niceToHave": [
-      "Previous experience leading **protocol upgrades and governance proposals**.",
-      "Background in **game theory, mechanism design, or DeFi economics**.",
-      "Familiarity with **on-chain treasury management, automated liquidity incentives, and MEV protection strategies**.",
-      "Contributions to **open-source crypto projects** or active participation in governance forums.",
-      "A passion for **building decentralized financial infrastructure that redefines global markets**."
+      "Experience recruiting for **DeFi protocols, DAOs, or AI startups**.",
+      "Connections with **top-tier Web3 developers, Solidity engineers, and AI researchers**.",
+      "Familiarity with **DAO governance and contributor incentives**.",
+      "Knowledge of **staking-based hiring models** and on-chain recruitment strategies.",
+      "Proficiency in **crypto-native talent tools** (e.g., Coordinape, RabbitHole, Work on Chain)."
     ]
   },
   "compensation": {
     "remote": "Yes",
-    "tokenRewards": "Earn $BASEBUZZ via protocol incentives and governance participation.",
+    "salary": "Performance-based + token incentives",
+    "tokenRewards": "Earn $BASEBUZZ through staking-based hiring incentives.",
     "benefits": [
       "Fully remote, async-first work environment.",
-      "Deep integration with **DeFi trading strategies and governance tools**.",
-      "On-chain reputation tracking—build your verified Web3 work history.",
-      "Stake-based governance participation in **BaseBuzz ecosystem apps**."
+      "Stake-based governance participation in **BaseBuzz hiring processes**.",
+      "On-chain reputation tracking—build your verified Web3 recruiter history.",
+      "Direct access to top DeFi builders, AI engineers, and crypto-native strategists."
     ]
   },
-  "applyLink": "/careers/apply?role=staff-product-manager-protocols"
+  "applyLink": "/careers/apply?role=recruitment-lead"
 }
