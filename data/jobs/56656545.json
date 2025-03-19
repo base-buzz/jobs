@@ -31,11 +31,13 @@
     ]
   },
   "compensation": {
-    "salary": "Competitive and commensurate with experience.",
+    "remote": "Yes",
+    "tokenRewards": "Earn $BASEBUZZ via on-chain staking & governance participation.",
     "benefits": [
-      "Flexible, remote-friendly work environment.",
-      "Opportunities for professional growth and networking.",
-      "Be part of a high-impact team shaping the future of decentralized finance."
+      "Fully remote, async-first work environment.",
+      "Access to exclusive DeFi tools and trading incentives.",
+      "On-chain reputation tracking—build your Web3 work history.",
+      "Staked governance power in BaseBuzz ecosystem apps."
     ]
   }
 }
