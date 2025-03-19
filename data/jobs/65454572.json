@@ -1,0 +1,45 @@
+{
+  "id": "staff-product-manager-protocols",
+  "title": "Staff Product Manager, Protocols",
+  "location": "Work where you want, when you want",
+  "description": "Lead the next-generation protocol development for BaseBuzz, shaping DeFi infrastructure, governance, and trading primitives on Base.",
+  "fullDescription": "BaseBuzz is building the most advanced AI-powered DeFi ecosystem on Base, integrating real-world asset tokenization, automated governance, and high-performance trading. We are seeking an experienced **Staff Product Manager** to drive the evolution of BaseBuzz’s protocol layer—ensuring scalability, innovation, and market dominance.\n\nThis role is ideal for someone with **deep knowledge of Ethereum, Layer 2 scaling, and smart contracts**. You will define and execute BaseBuzz’s **protocol roadmap**, collaborating with engineers, researchers, and ecosystem partners to build the **next generation of trustless financial infrastructure.**",
+  "responsibilities": [
+    "Define and execute BaseBuzz’s **protocol strategy**, ensuring future upgrades drive adoption and utility.",
+    "Lead **cross-functional product development** from ideation to deployment alongside the Protocol Engineering team.",
+    "Conduct deep research into **DeFi trends, governance models, and economic incentives**, shaping innovative mechanisms for trading, staking, and on-chain reputation.",
+    "Monitor the **Base and Ethereum L2 ecosystem**, identifying strategic opportunities to expand BaseBuzz’s protocol reach.",
+    "Collaborate with the Base Foundation and key partners to establish integrations, ecosystem initiatives, and governance structures.",
+    "Spearhead technical discussions with developers, auditors, and security teams to optimize smart contract performance and safety.",
+    "Mentor junior product managers and act as a **thought leader** within the BaseBuzz ecosystem."
+  ],
+  "requirements": {
+    "mustHave": [
+      "8+ years of product management experience, with at least **2+ years in the crypto industry** working on smart contract-based applications.",
+      "Proven track record of defining and launching **blockchain protocols, DeFi primitives, or on-chain governance frameworks**.",
+      "Strong understanding of **Ethereum, Base, Layer 2 scaling solutions, and trustless financial systems**.",
+      "Experience with **EVM smart contracts, Solidity, and DeFi trading mechanisms**.",
+      "Ability to **influence and drive alignment across diverse stakeholders**—including engineers, researchers, and governance participants.",
+      "Proficiency in **leveraging on-chain data** and analytics to inform decision-making.",
+      "Experience working in **fast-paced, autonomous teams** within Web3 startups or DAOs."
+    ],
+    "niceToHave": [
+      "Previous experience leading **protocol upgrades and governance proposals**.",
+      "Background in **game theory, mechanism design, or DeFi economics**.",
+      "Familiarity with **on-chain treasury management, automated liquidity incentives, and MEV protection strategies**.",
+      "Contributions to **open-source crypto projects** or active participation in governance forums.",
+      "A passion for **building decentralized financial infrastructure that redefines global markets**."
+    ]
+  },
+  "compensation": {
+    "remote": "Yes",
+    "tokenRewards": "Earn $BASEBUZZ via protocol incentives and governance participation.",
+    "benefits": [
+      "Fully remote, async-first work environment.",
+      "Deep integration with **DeFi trading strategies and governance tools**.",
+      "On-chain reputation tracking—build your verified Web3 work history.",
+      "Stake-based governance participation in **BaseBuzz ecosystem apps**."
+    ]
+  },
+  "applyLink": "/careers/apply?role=staff-product-manager-protocols"
+}

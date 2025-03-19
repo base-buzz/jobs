@@ -1,0 +1,43 @@
+{
+  "id": "staff-frontend-engineer",
+  "title": "Staff Frontend Engineer",
+  "location": "Work where you want, when you want",
+  "description": "Lead frontend development for BaseBuzz, shaping next-gen DeFi experiences across trading, governance, and analytics.",
+  "fullDescription": "BaseBuzz is at the forefront of AI-powered DeFi, real-world asset tokenization, and automated governance. As a Staff Frontend Engineer, you'll build and optimize interfaces that power decentralized trading, governance dashboards, and on-chain analytics.\n\nThis role is perfect for engineers passionate about crafting elegant, performant Web3 interfaces. You will lead the development of high-impact user experiences for BaseBuzz’s ecosystem, including Rugtron3000, MemePro, and DeFi governance tooling.",
+  "responsibilities": [
+    "Architect, develop, and optimize high-performance frontend applications across the BaseBuzz ecosystem.",
+    "Take ownership of our web products, ensuring a seamless, high-quality user experience.",
+    "Implement complex UI components and interactive visualizations for DeFi analytics, governance, and trading dashboards.",
+    "Collaborate with backend and smart contract engineers to integrate live on-chain data and decentralized APIs.",
+    "Lead frontend architecture discussions, focusing on scalability, performance, and accessibility.",
+    "Provide mentorship to junior engineers, fostering best practices in frontend development and UI/UX design."
+  ],
+  "requirements": {
+    "mustHave": [
+      "8+ years of frontend engineering experience, with deep expertise in React and TypeScript.",
+      "Proven experience building and shipping complex frontend applications, ideally in fintech, trading, or DeFi.",
+      "A strong understanding of modern client-side application architecture, state management, and UI performance optimization.",
+      "Experience building and maintaining a design system or component library.",
+      "Familiarity with the Web3 frontend stack (ethers.js/web3.js, EIP-1193, wallet integrations, etc.).",
+      "Ability to work autonomously, drive technical decisions, and ship features rapidly."
+    ],
+    "niceToHave": [
+      "Experience optimizing blockchain UI/UX for DeFi traders, governance participants, and liquidity providers.",
+      "Background in WebGL, Three.js, or advanced data visualization techniques for on-chain analytics.",
+      "Contributions to open-source frontend frameworks or libraries.",
+      "Experience leading frontend engineering teams in a startup or high-growth environment.",
+      "A passion for DeFi, trading, and cutting-edge financial interfaces."
+    ]
+  },
+  "compensation": {
+    "remote": "Yes",
+    "tokenRewards": "Earn $BASEBUZZ through staking & on-chain governance.",
+    "benefits": [
+      "Fully remote, async-first work culture.",
+      "Exclusive access to DeFi trading tools and governance incentives.",
+      "On-chain reputation tracking—build your verified Web3 engineering profile.",
+      "Work at the intersection of AI, DeFi, and next-gen financial infrastructure."
+    ]
+  },
+  "applyLink": "/careers/apply?role=staff-frontend-engineer"
+}

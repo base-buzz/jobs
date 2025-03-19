@@ -1,0 +1,38 @@
+{
+  "id": "security-engineer-intern",
+  "title": "Security Engineer Intern",
+  "location": "Work where you want, when you want",
+  "description": "Assist in securing the BaseBuzz ecosystem, researching vulnerabilities, and building security automation.",
+  "fullDescription": "BaseBuzz is pioneering AI-powered DeFi, governance automation, and real-world asset tokenization. As a Security Engineer Intern, you’ll work closely with our security and engineering teams to help secure our smart contracts, dApps, and trading infrastructure.\n\nThis internship is a hands-on opportunity to gain experience in Web3 security, vulnerability research, and on-chain monitoring. You'll learn from experienced blockchain security engineers and contribute to critical security initiatives within the BaseBuzz ecosystem.",
+  "responsibilities": [
+    "Collaborate with engineering teams to automate security monitoring and secure coding practices.",
+    "Develop alerting systems for potential security threats in both Web2 and Web3 environments.",
+    "Conduct research on DeFi security vulnerabilities, smart contract exploits, and blockchain attack vectors.",
+    "Assist in auditing smart contract code, identifying risks, and implementing best practices.",
+    "Help build tools for detecting suspicious transactions and securing on-chain governance mechanisms."
+  ],
+  "requirements": {
+    "mustHave": [
+      "Excitement for DeFi, Base ecosystem, and on-chain security.",
+      "Experience with at least one of: JavaScript, TypeScript, ReactJS, React Native, Python, or Solidity.",
+      "Currently pursuing a degree in Computer Science, Cybersecurity, Engineering, Math, or related fields."
+    ],
+    "niceToHave": [
+      "Personal or professional projects related to blockchain security, smart contract audits, or DeFi tools.",
+      "Previous internship experience in a security or engineering organization.",
+      "Hands-on experience with cybersecurity frameworks, penetration testing, or threat modeling.",
+      "Love for degen trading, base memes, and pushing the limits of on-chain security."
+    ]
+  },
+  "compensation": {
+    "remote": "Yes",
+    "tokenRewards": "Opportunity to earn $BASEBUZZ through contributions and security research.",
+    "benefits": [
+      "Remote internship with some of the best de-fi wizards on Base.",
+      "Learn from top security engineers working on DeFi and AI-powered security.",
+      "On-chain reputation tracking—build your verified Web3 security profile.",
+      "Early access to upcoming BaseBuzz features, projects, and governance influence."
+    ]
+  },
+  "applyLink": "/careers/apply?role=security-engineer-intern"
+}
