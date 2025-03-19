@@ -11,8 +11,8 @@ app.use(
     origin: [
       "https://www.base.buzz",
       "https://base.buzz",
-      "http://localhost:3000", // ✅ Allows local Next.js development
-      "http://127.0.0.1:3000", // ✅ Handles localhost variations
+      "http://localhost:3333", // ✅ Allows local Next.js development
+      "http://127.0.0.1:3333", // ✅ Handles localhost variations
     ],
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     allowedHeaders: "Origin, X-Requested-With, Content-Type, Accept",
